@@ -1,0 +1,10 @@
+C:\Users\DevPe\source\repos\FrameworkBD\FrameworkBD\obj\Debug\FrameworkBD.csprojAssemblyReference.cache
+C:\Users\DevPe\source\repos\FrameworkBD\FrameworkBD\obj\Debug\FrameworkBD.Form1.resources
+C:\Users\DevPe\source\repos\FrameworkBD\FrameworkBD\obj\Debug\FrameworkBD.Properties.Resources.resources
+C:\Users\DevPe\source\repos\FrameworkBD\FrameworkBD\obj\Debug\FrameworkBD.csproj.GenerateResource.cache
+C:\Users\DevPe\source\repos\FrameworkBD\FrameworkBD\obj\Debug\FrameworkBD.csproj.CoreCompileInputs.cache
+C:\Users\DevPe\source\repos\FrameworkBD\FrameworkBD\bin\Debug\FrameworkBD.exe.config
+C:\Users\DevPe\source\repos\FrameworkBD\FrameworkBD\bin\Debug\FrameworkBD.exe
+C:\Users\DevPe\source\repos\FrameworkBD\FrameworkBD\bin\Debug\FrameworkBD.pdb
+C:\Users\DevPe\source\repos\FrameworkBD\FrameworkBD\obj\Debug\FrameworkBD.exe
+C:\Users\DevPe\source\repos\FrameworkBD\FrameworkBD\obj\Debug\FrameworkBD.pdb
